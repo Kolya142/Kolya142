@@ -4,3 +4,5 @@ my test notepad 'google colab': https://colab.research.google.com/drive/1ZDyTNAE
 pyvdl: https://pypi.org/project/pyvdl/
 
 homepage_web: https://kolya142.github.io/
+### links:
+repl.it: https://replit.com/@Kolya142
