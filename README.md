@@ -1,3 +1,3 @@
-pyvdl: https://pypi.org/project/pyvdl/
-homepage_web: https://kolya142.github.io/
-repl.it: https://replit.com/@Kolya142
+## GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=Kolya142&count_private=true&show_icons=true&theme=white)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kolya142&layout=compact&theme=dark&langs_count=6)](https://github.com/Kolya142/github-readme-stats)
