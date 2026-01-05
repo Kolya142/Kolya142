@@ -12,4 +12,4 @@ Pi radians is 180 degrees. \
 2+3 equals 5. \
 Binary operator NAND can be created using only multiplication and substration. \
 [] called square brackets; {} called curved brackets; () called parentheses/round brackets. \
-if set G contain all sets that doesn't contain themselves G must contain itself but if G contain itself it must not contain itself. 
+if set G contain all sets that doesn't contain themselves, then G must contain itself, but if G contain itself, it must not contain itself. 
