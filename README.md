@@ -5,7 +5,8 @@ With some reserch I can program in C#, Java, PHP, Haskell, Ruby. \
 I'm using Debian 13. \
 I sometimes use MS Windows. \
 142 in my nickname is just a random number. \
-other accounts with 142 in nickname aren't mine.
+other accounts with 142 in nickname aren't mine. \
+in all services my nickname is Kolya142, except discord(kolya142_thk).
 # Some facts
 65536 is the first 2^n number that contains no digits '1','2','4','8' in its decimal form. \
 Pi radians is 180 degrees. \
