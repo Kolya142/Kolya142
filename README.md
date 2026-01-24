@@ -10,7 +10,8 @@ in all services my nickname is Kolya142, except discord(kolya142_thk).
 # Some facts
 65536 is the first 2^n number that contains no digits '1','2','4','8' in its decimal form. \
 Pi radians is 180 degrees. \
-2+3 equals 5. \
+2+2 may be equal 5 in some axioms. \
 Binary operator NAND can be created using only multiplication and substration. \
 [] called square brackets; {} called curved brackets; () called parentheses/round brackets. \
-if set G contain all sets that doesn't contain themselves, then G must contain itself, but if G contain itself, it must not contain itself. 
+if set G contain all sets that doesn't contain themselves, then G must contain itself, but if G contain itself, it must not contain itself. (∀S (S∉S)⇒(S∈G))⇒(G∈G)⇒(G∉G)⇒(G∈G)⇒(G∉G)⇒... \
+GitHub® is a bad thing
